@@ -1,12 +1,12 @@
 <h1 align="center"> I'm Muhammad Saad Memon</h1>
-<h2 align="center">I am **Electronic** **Engineering** and **Software** **Developer** (learning)</h2>
+<h2 align="center">I am Electronic Engineering and Software Developer (learning)</h2>
 
 <img width="35%" align="right" alt="Github" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 
 ## 🧐 About
 
-- 🌱 I’m currently learning **Full** **Stack** **Development** on **Flutter**
+- 🌱 I’m currently learning Full Stack Development** on Flutter
 - 📫 Want to reach me? **msmkd2884@gmail.com** or DM me on **Facebook: https://www.facebook.com/muhammad.saad.28**
 - 🔭 I am currently contributing to Open Source, building some cool daily use applications using Flutter and Dart  
 - 🔭 I am also working as a Embedded System Engineer writing code of the microcontrollers like Arduino, Esp32 and Raspberry Pi
@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saad-2884/" target="blank"><img align="center" src="img/linkedin.png" alt="IN" height="30" width="30" /></a>&nbsp
+<a href="https://www.linkedin.com/in/saad-2884/" target="blank"><img align="center" src="linkedin.png" alt="IN" height="30" width="30" /></a>&nbsp
   <a href="https://twitter.com/Muhamma94837128">
-    <img src="img/twitter.png" alt="Twitter" width="30" height="30"/>
+    <img src="twitter.png" alt="Twitter" width="30" height="30"/>
   </a>&nbsp
-<a href="https://www.facebook.com/muhammad.saad.28" target="blank"><img align="center" src="img/facebook.png" alt="FB" height="30" width="30" /></a>&nbsp
-<a href="https://www.instagram.com/saad_x78x/" target="blank"><img align="center" src="img/instagram.png" alt="INSTA" height="30" width="30" /></a>
+<a href="https://www.facebook.com/muhammad.saad.28" target="blank"><img align="center" src="facebook.png" alt="FB" height="30" width="30" /></a>&nbsp
+<a href="https://www.instagram.com/saad_x78x/" target="blank"><img align="center" src="instagram.png" alt="INSTA" height="30" width="30" /></a>
 </p>
 
 

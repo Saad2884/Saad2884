@@ -1,0 +1,15 @@
+- make repository from website
+- copy the path of repository from code option on website
+- open git bash from pc
+- move to desktop by 'cd desktop' command
+- write 'git clone <paste the path here> (this will create the repository of github on desktop)
+- move into the repository by writing 'cd <repository name>'
+- paste the files of folders you want to push in the created repository on the desktop
+- wirte git status (it will show newly added files in red)
+- write 'git add .' to add these all files
+- again check the files by writing 'git status' (now all files would be green)
+- write 'git commit -m 'new files added'' to write description of the files
+- now write 'git push origin main' to push files in to github
+- you may delete the files created on desktop
+
+ITS DONE ~!!!!!!!!!!!1

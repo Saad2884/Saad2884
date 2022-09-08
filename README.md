@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saad-2884/" target="blank"><img align="center" src="linkedin.png" alt="IN" height="30" width="30" /></a>&nbsp
+<a href="https://www.linkedin.com/in/saad-2884/" target="blank"><img align="center" src="logos/linkedin.png" alt="IN" height="30" width="30" /></a>&nbsp
   <a href="https://twitter.com/Muhamma94837128">
-    <img src="twitter.png" alt="Twitter" width="30" height="30"/>
+    <img src="logos/twitter.png" alt="Twitter" width="30" height="30"/>
   </a>&nbsp
-<a href="https://www.facebook.com/muhammad.saad.28" target="blank"><img align="center" src="facebook.png" alt="FB" height="30" width="30" /></a>&nbsp
-<a href="https://www.instagram.com/saad_x78x/" target="blank"><img align="center" src="instagram.png" alt="INSTA" height="30" width="30" /></a>
+<a href="https://www.facebook.com/muhammad.saad.28" target="blank"><img align="center" src="logos/facebook.png" alt="FB" height="30" width="30" /></a>&nbsp
+<a href="https://www.instagram.com/saad_x78x/" target="blank"><img align="center" src="logos/instagram.png" alt="INSTA" height="30" width="30" /></a>
 </p>
 
 

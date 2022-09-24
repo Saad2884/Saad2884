@@ -37,7 +37,7 @@
 
 <div align="center" width="100%">
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saad2884&show_icons=true&theme=radical)  
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saad2884&show_icons=true&theme=vision-friendly-dark)  
   
 
  </div>

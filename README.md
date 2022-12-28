@@ -11,7 +11,8 @@
 - 🔭 I am currently contributing to Open Source, building some cool IOT based applications using Flutter and Dart  
 - 🔭 I am also working as a Embedded System Engineer writing code of the microcontrollers like Arduino, Esp32 and Raspberry Pi
 - 👀 Things I know: <i> Python, MATLAB, C++, C#, Dart, Flutter, html, Git/Github, Cadence Virtuoso, Eagle PCB designing, Weka </i>  
-- 📝 Reseach Paper: <i> "Design and Development of a Multi-Sided Tabletop Augmented Reality 3D Display Coupled with Remote 3D Imaging Module" <i> published in 2022 in <i> Journal of Engineering and Technological Sciences, Vol. 54, No. 6 (2022) <i> 
+- 📝 Reseach Paper: <i> "Design and Development of a Multi-Sided Tabletop Augmented Reality 3D Display Coupled with Remote 3D Imaging Module" <i> published in 2022 in  Journal of Engineering and Technological Sciences, Vol. 54, No. 6 (2022) 
+- Research Paper link ▶️ 
 <br><br>
 
 <hr \>

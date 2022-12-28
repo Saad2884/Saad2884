@@ -10,7 +10,8 @@
 - 📫 Want to reach me? **msmkd2884@gmail.com** or DM me on **Facebook: https://www.facebook.com/muhammad.saad.28**
 - 🔭 I am currently contributing to Open Source, building some cool IOT based applications using Flutter and Dart  
 - 🔭 I am also working as a Embedded System Engineer writing code of the microcontrollers like Arduino, Esp32 and Raspberry Pi
-- 👀 Things I know: <i> Python, MATLAB, C++, C#, Dart, Flutter, html, Git/Github, </i>   
+- 👀 Things I know: <i> Python, MATLAB, C++, C#, Dart, Flutter, html, Git/Github, Cadence Virtuoso, Eagle PCB designing, Weka </i>  
+- 📝 Reseach Paper <b> Design and Development of a Multi-Sided Tabletop Augmented Reality 3D Display Coupled with Remote 3D Imaging Module <b> publish in <b> Journal of Engineering and Technological Sciences, Vol. 54, No. 6 (2022) <b> 
 <br><br>
 
 <hr \>

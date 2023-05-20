@@ -20,7 +20,8 @@
 
 <hr \>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
+
 <p align="left">
 <a href="https://www.linkedin.com/in/saad-2884/" target="blank"><img align="center" src="logos/linkedin.png" alt="IN" height="30" width="30" /></a>&nbsp
   <a href="https://twitter.com/Muhamma94837128">
@@ -33,9 +34,33 @@
 
 <hr \>
 
+<!-- <div align="center" style="display:flex; width: 100%">
+ 
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=saad2884&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> -->
+
+![Saad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=saad2884&bg_color=1e221e&color=ffffff&line=539af4&point=ffffff&area=true&hide_border=true)
+
+ <div align="center" width="100%">
+
+[![@Saad's Holopin board](https://holopin.io/api/user/board?user=saad2884)](https://holopin.io/@saad2884)
+
+ </div>
+ 
+<!--
+<h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> ❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
+-->
+
+<p align="center">
+    <img height="200px" width="400px" src="https://awesome-github-stats.azurewebsites.net/user-stats/saad2884?cardType=github&theme=github-dark" />
+    <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=saad2884&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E](https://streak-stats.demolab.com?user=saad2884&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=4986D0&sideLabels=DDDDDD&dates=4986D0&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&ring=4986D0&sideNums=4986D0" />
+</p>  
+
+
 ### Languages I have worked with -
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad2884&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad2884&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://activity-graph.herokuapp.com/graph?username=Saad2884&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Saad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saad2884&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a> <h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> <!--❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
 

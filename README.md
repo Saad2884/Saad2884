@@ -44,8 +44,6 @@
 
  <div align="center" width="100%">
 
-[![@Saad's Holopin board](https://holopin.io/api/user/board?user=saad2884)](https://holopin.io/@saad2884)
-
  </div>
  
 <!--
@@ -58,9 +56,12 @@
 </p>  
 
 
-### Languages I have worked with -
 
+<h3 align="center">Languages I have worked with</h3>
+
+<p align="center"> 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad2884&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=Saad2884&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true"><img alt="Saad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saad2884&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a> <h3 align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> <!--❤️(Data Science && Machine Learning) <img src ="https://media0.giphy.com/media/M8u539G98rIxYpHnTW/source.gif" width="20px">--> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px"></h3>
 

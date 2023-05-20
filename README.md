@@ -1,15 +1,18 @@
 <h1 align="center"> I'm Muhammad Saad Memon</h1>
-<h2 align="center">I am Electronic Engineer and Software Developer (learning)</h2>
+<h2 align="center">I am Electronic Engineer with experience in software development (Flutter) and A.I.</h2>
 
 <img width="35%" align="right" alt="Github" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
+- 📫 Want to reach me? **msmkd2884@gmail.com** or DM me on **Facebook: https://www.facebook.com/muhammad.saad.28**
 
 ## 🧐 About
 
-- 🌱 I’m currently learning Full Stack Development on Flutter
-- 📫 Want to reach me? **msmkd2884@gmail.com** or DM me on **Facebook: https://www.facebook.com/muhammad.saad.28**
-- 🔭 I am currently contributing to Open Source, building some cool IOT based applications using Flutter and Dart  
-- 🔭 I am also working as a Embedded System Engineer writing code of the microcontrollers like Arduino, Esp32 and Raspberry Pi
+- 🌱 I’m currently doing M.E. from UCD Ireland in Electronic and Computer Engineering.
+- 👩‍💻 Working on a project**Gesture Recognition using wireless sensing and machine learning**.
+- 🌱 Also learning Full Stack Development on Flutter
+- 🔭 I have contributed to Open Source, built some cool IOT based applications using Flutter and Dart.  
+- 🔭 I have also worked as an **Embedded System Engineer** writing code of the microcontrollers like Arduino, Esp32 and Raspberry Pi
+- 🔭 I have good basic knowledge and experience of basic **Data Sceinces** and **Machine Learning models**.
 - 👀 Things I know: <i> Python, MATLAB, C++, C#, Dart, Flutter, html, Git/Github, Cadence Virtuoso, Eagle PCB designing, Weka </i>  
 - 📝 Reseach Paper: <i> "Design and Development of a Multi-Sided Tabletop Augmented Reality 3D Display Coupled with Remote 3D Imaging Module" </i> published in 2022 in  <i> Journal of Engineering and Technological Sciences, Vol. 54, No. 6 (2022) </i>
 - Research Paper link ▶️ https://www.researchgate.net/publication/366595397_Design_and_Development_of_a_Multi-Sided_Tabletop_Augmented_Reality_3D_Display_Coupled_with_Remote_3D_Imaging_Module

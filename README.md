@@ -60,7 +60,7 @@
 
 <p align="center"> 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="80px" width="80px"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad2884&layout=normal&theme=buefy&hide_border=true"/> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad2884&layout=donut&theme=buefy&hide_border=true"/> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80px" width="80px">
 </p>
 
 

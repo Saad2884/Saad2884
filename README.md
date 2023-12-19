@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Muhammad Saad Memon</h1>
-<h2 align="center">I am an Electronic Engineer with experience in software development (Flutter) and A.I.</h2>
+<h2 align="center">I am an Engineer with experience in software development (Flutter) and A.I and Computer Networking.</h2>
 
 <img width="35%" align="right" alt="Github" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
